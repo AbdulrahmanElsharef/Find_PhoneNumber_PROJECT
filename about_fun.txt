@@ -1,0 +1,6 @@
+Find_Phone_Number()
+    function for find phone country&network company and timezon
+    args:
+    phone=enter phone number with country key
+    return :
+    phone(country & network and time zone)
