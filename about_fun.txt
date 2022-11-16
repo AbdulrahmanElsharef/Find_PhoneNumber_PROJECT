@@ -4,3 +4,18 @@ Find_Phone_Number()
     phone=enter phone number with country key
     return :
     phone(country & network and time zone)
+
+
+
+(random phone numbers):
+
+1-  +447383453599
+2-  +34603136079
+3-  +4915902946735
+4-  +40720307833
+5-  +33754284223
+6-  +48727845897
+7-  +201243433811
+8-  +201053566911
+9-  +201183844899
+10- +201533549633
